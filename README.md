@@ -7,6 +7,6 @@ You can see the [presentation here](http://jpoon.github.io/software-development-
 ![Screenshot](https://raw.githubusercontent.com/jpoon/software-development-as-a-craft/master/assets/screenshot.png)
 
 ## License
-Everything excluding images is MIT licensed, Copyright (C) 2015 [Jason Poon](http://www.jasonpoon.ca). For more details, see LICENSE.md. 
+Everything excluding images is MIT licensed, Copyright (C) 2015 Jason Poon. For more details, see LICENSE.md. 
 
 Logos and image assets are Copyright (C) their respective owners.
